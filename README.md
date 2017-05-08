@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+``` ruby
+require "facturapi"
+Facturapi.api_key = "sk_test_..."
+```
 
 ## Development
 
