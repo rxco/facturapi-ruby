@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'facturapi/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "Facturapi"
+  spec.name          = "facturapi"
   spec.version       =  1
   spec.authors       = ["German Rodriguez"]
   spec.email         = ["germanson@gmail.com"]
