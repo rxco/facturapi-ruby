@@ -5,7 +5,7 @@ require 'facturapi/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "Facturapi"
-  spec.version       = Facturapi::VERSION
+  spec.version       =  1
   spec.authors       = ["German Rodriguez"]
   spec.email         = ["germanson@gmail.com"]
 
